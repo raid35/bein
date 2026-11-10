@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://thmanyah.com/_next/static/immutable/media/logo-black.2fotoe10_vdmr.png" group-title="thmanyah", thmanyah 1 
+https://blcco.linkip.org:443/live/3455_.m3u8
+#EXTINF:-1 tvg-logo="https://thmanyah.com/_next/static/immutable/media/logo-black.2fotoe10_vdmr.png" group-title="thmanyah", thmanyah 2 
+https://blcco.linkip.org:443/live/3454_.m3u8
+#EXTINF:-1 tvg-logo="https://thmanyah.com/_next/static/immutable/media/logo-black.2fotoe10_vdmr.png" group-title="thmanyah", thmanyah 3 
+https://blcco.linkip.org:443/live/3453_.m3u8
