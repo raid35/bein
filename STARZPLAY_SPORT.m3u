@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ADSP1_264_Color.png" group-title="STC TV SPORT ©",STCtv STARZPLAY SPORTS 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP1_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC_264_Color.png" group-title="STC TV SPORT ©",STCtv Sports HD 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ADSP2_264_Color.png" group-title="STC TV SPORT ©",STCtv STARZPLAY SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2_HEVC/wv-pr/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/JAW1_264_Color.png" group-title="STC TV SPORT ©",STCtv Sports HD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SPZ_264_Color.png" group-title="STC TV SPORT ©",STCtv STARZPLAY SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/SPZ_HEVC/wv-pr/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC3_264_Color.png" group-title="STC TV SPORT ©",STCtv Sports HD 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC3_HEVC/wv-pr/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC4_264_Color.png" group-title="STC TV SPORT ©",STCtv sports HD 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC4_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/AD1_264_Color.png" group-title="STC TV SPORT ©",STCtv AD SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2810c600349a0cd3a920c7d99bbe00b1:3911049bf0e342e70e0fba2cba6aa628
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AD1_HEVC/wv-pr/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/AD2_264_Color.png" group-title="STC TV SPORT ©",STCtv AD SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7295fc09a7633fd460808f1ed854a8b6:5b4c9115617286036232fbb0d583a651
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AD2_HEVC/wv-pr/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/DBSH_264_Color.png" group-title="STC TV SPORT ©",STCtv DUBAI SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=507e961ed13ca34c449ba45d6070b06e:c79fa598a6b4ccd40d4b264e16de6134
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBSH_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/DBS2_264_Color.png" group-title="STC TV SPORT ©",STCtv DUBAI SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b56ae1a253e92a7efe223858f1b909a5:6f3a9f6cf736fc3cd1727b4b626c943a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBS2_HEVC/wv-pr/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/DBR_264_Color.png" group-title="STC TV SPORT ©",STCtv DUBAI R 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b551af7020dee9aee3499adfc869fcf1:fc59a096e2743dfea1bd940f5a615d16
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBR_HEVC/wv-pr/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/DBR2_264_Color.png" group-title="STC TV SPORT ©",STCtv DUBAI R 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0df15884db78f2c523b08726ecfa89b:b73b1f93d51742ab7aad0f04255ca15f
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBR2_HEVC/wv-pr/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SHS_264_Color.png" group-title="STC TV SPORT ©",STCtv SHARJAH SPORTS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/SHS_HEVC/wv-pr/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/BST_264_Color.png" group-title="STC TV SPORT ©",STCtv BAHRAN SPORTS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4715ff70915cd2a490da7e63251072c2:1c349d100a1abaacd76fe62d628fd7ab
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BST_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/OMSP_264_Color.png" group-title="STC TV SPORT ©",STCtv OMAN SPORTS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0784d9c56707fc9660fd6d3b079f5cd:38d2f042d7b22c4f718ed273e9fe7b79
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/OMSP_HEVC/wv-pr/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/KSA24_264_Color.png" group-title="STC TV SPORT ©",STCtv SAUDI 24 SPORTS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=433ce93f94bbb3a8c5888717ccb27bf4:f45e8e505b135d13d6e7361904e47a95
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KSA24_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/BIG_264_Color.png" group-title="STC TV SPORT ©",STCtv BIGG TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e31c15dbde1ac4ddeba1566a1bbf7e0:79a541c99e9bb7815e257e4a4ff46dbb
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BIG_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ONSP_264_Color.png" group-title="STC TV SPORT ©",STCtv ON SPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=144db999c17b8259eff93042ebaa6afe:0a5730f4d5fe17ba090d169e171f4973
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ONSP_HEVC/wv-pr/manifest.mpd 
