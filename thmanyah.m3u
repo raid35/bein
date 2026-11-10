@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT_264_Color.png" group-title="STC TV ©",STCtv Thmanyah HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ebed7aab13df195c486446acccb4ccc:a514dba4389dbec5a49cc296f838993a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT_HEVC/wv-pr/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT1_264_Color.png" group-title="STC TV SPORT ©",STCtv Thmanyeh 1 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad
