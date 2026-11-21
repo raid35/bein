@@ -1,15 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://j.top4top.io/p_37477sr9c1.png" group-title="قنوات رياضية",قناة 1
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 1 
 intent://api10.apiforyourproduct.cfd/sokaspr/lzjjlvhpcsbm/index.html#Intent;scheme=https;package=com.yapro.player;component=com.yapro.player/com.besport.player.player.PlayerActivity;S.referer=https%3A%2F%2Fapi10.apiforyourproduct.cfd%2F;end
 
-#EXTINF:-1 tvg-logo="https://j.top4top.io/p_37477sr9c1.png" group-title="قنوات رياضية",قناة 2
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 2 
 intent://ais10.aispeednet.cfd/sokaspr/axxvrwglipnn/index.html#Intent;scheme=https;package=com.yapro.player;component=com.yapro.player/com.besport.player.player.PlayerActivity;S.referer=https%3A%2F%2Fais10.aispeednet.cfd%2F;end
-
-#EXTINF:-1 tvg-logo="https://j.top4top.io/p_37477sr9c1.png" group-title="قنوات رياضية",قناة 3
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 3 
 intent://api10.apiforyourproduct.cfd/sokaspr/ipufrckhnqjq/index.html#Intent;scheme=https;package=com.yapro.player;component=com.yapro.player/com.besport.player.player.PlayerActivity;S.referer=https%3A%2F%2Fapi10.apiforyourproduct.cfd%2F;end
 
-#EXTINF:-1 tvg-logo="https://j.top4top.io/p_37477sr9c1.png" group-title="قنوات رياضية",قناة 4
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 4 
 intent://ais10.aisupernet.cfd/sokaspr/xnkvfakvtgnd/index.html#Intent;scheme=https;package=com.yapro.player;component=com.yapro.player/com.besport.player.player.PlayerActivity;S.referer=https%3A%2F%2Fais10.aisupernet.cfd%2F;end
 
-#EXTINF:-1 tvg-logo="https://j.top4top.io/p_37477sr9c1.png" group-title="قنوات رياضية",قناة 5
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="Alwan ⚽ Sports ⚽ 4K ",AR ALWAN SPORT 5 
 intent://ais10.aispeednet.cfd/sokaspr/tljzkvwbkxpi/index.html#Intent;scheme=https;package=com.yapro.player;component=com.yapro.player/com.besport.player.player.PlayerActivity;S.referer=https%3A%2F%2Fais10.aispeednet.cfd%2F;end
